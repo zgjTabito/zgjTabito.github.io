@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Gengjia Zhang(张耕嘉)"
+title                    : "Gengjia Zhang"
 description              : "A university student in NKU in China. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
